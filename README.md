@@ -1,5 +1,5 @@
 # trabalhomobile
-
+José Rafael Oliveira Palmeira de Souza 01709219
 
 Este projeto Flutter é baseado em um design criado no Figma e contém telas de login e registro com layout visual idêntico ao protótipo.
 
